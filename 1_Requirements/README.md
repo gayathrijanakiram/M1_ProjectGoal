@@ -11,11 +11,11 @@ A miniproject on implementing a working operation of ATM Machine which includes 
 - Opportunities
 - Threads
 # 4W's and 1H's
--Who
--When
--What
--Where
--How
+- Who
+- When
+- What
+- Where
+- How
 # DETAIL REQUIREMENTS:
--High Level Requirements:
--Low Level Requirements:
+- High Level Requirements:
+- Low Level Requirements:
