@@ -1,6 +1,6 @@
 # M1_ProjectGoal_App
 
-#ATM MACHINE MINIPROJECT
+# ATM MACHINE MINIPROJECT
 
 
 ## code quality score
