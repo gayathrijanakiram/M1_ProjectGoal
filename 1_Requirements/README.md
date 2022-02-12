@@ -1,10 +1,11 @@
 # INTRODUCTION
-A miniproject on implementing a working operation of ATM Machine which includes Deposit of cash, withdraw of cash,balance enquiry and transfer of amount using C.The main aim of the application is to perform deposit of amount,withdrawal of amount,checking balance,and transfer of amount effectively and also this applications check where the user can wear a mask and sanitized. 
+A miniproject on implementing a working operation of ATM Machine which includes Deposit of cash, withdraw of cash,balance enquiry and using C.The main aim of the application is to perform deposit of amount,withdrawal of amount,and checking balance effectively and also this applications checks whether the user wear a mask and sanitized. 
 # FEATURES
-- Checks user wear a mask and sanitized
-- Balance Enquiry
+- Checks user wear a mask and sanitized.
+- check Balance
 - Deposit
 - withdraw of amount
+- Exit
 # SWOT ANALYSIS
 - Strength
 - Weakness
