@@ -25,7 +25,6 @@ int main()
         
     while (again) {
     mainMenu();
-    
     printf("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n");
     printf("Your Selection:\t");
     scanf("%d", &option);
