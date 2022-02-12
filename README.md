@@ -1,5 +1,6 @@
 # M1_ProjectGoal_App
-ATM MACHINE MINIPROJECT
+
+#ATM MACHINE MINIPROJECT
 
 
 ## code quality score
@@ -21,9 +22,9 @@ Folder             | Description
 ##  Features
 | Feature Id | Feature |
 | -----------|---------|
-|F_01| Login to System | |
-|F_02|View the movie details |
-|F_03| Book a Ticket |
-|F_04| Details of Ticket |
-|F_05| Cancel a Ticket |
-|F_06| Logout |
+|F_01| check wear a mask and sanitized | |
+|F_02| login to system |
+|F_03| check balance |
+|F_04| Deposit |
+|F_05| withdraw |
+|F_06| Exit |
