@@ -7,24 +7,34 @@ A miniproject on implementing a working operation of ATM Machine which includes 
 - withdraw of amount
 - Exit
 # SWOT ANALYSIS
-- Strength
-- Weakness
+- STRENGTH
+  - Quick and prompt service is possible with less human errors.
+  - It is beneficial for travelers.
+  - It provides 24 hrs services.
+  - Withdraw cash at any time or in urgent without the help of bank.
+  - It ensures privacy to the customers.
+
+- WEAKNESS
+  - Limitation of withdrawal of money.
+
 - Opportunities
-- Threads
+
+- THREADS
+  - Due to leakage of PIN, fraud can take place easily.
 # 4W's and 1H's
-- Who
+- WHO
 
    Everyone can use the ATM Machine,who needs to deposit,withdraw,and transfer the amount.
-- What
+- WHAT
 
   It is Made for withdraw of amount,deposit of amount,and transfer of amount.
-- Where
+- WHERE
 
   The user can access this ATM application using any C compiler.
-- Why
+- WHY
 
-  This application helps the user to do withdraw,deposit,and transaction of amount through online.
-- How
+  This application helps the user to do withdraw,deposit,and transaction of amount effectively.
+- HOW
 
   The implementation of this application is done using C programming language.
 # DETAIL REQUIREMENTS:
