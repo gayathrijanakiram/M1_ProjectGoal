@@ -43,6 +43,7 @@ A miniproject on implementing a working operation of ATM Machine which includes 
   - The implementation of this application is done using C programming language.
 
 # DETAIL REQUIREMENTS:
+
 - High Level Requirements:
  
  ![atm1](https://user-images.githubusercontent.com/59721986/153714155-104c92c5-bd87-4895-9e45-40021c1cd746.JPG)
