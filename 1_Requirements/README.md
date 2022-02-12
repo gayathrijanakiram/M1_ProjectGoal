@@ -48,3 +48,6 @@ A miniproject on implementing a working operation of ATM Machine which includes 
  ![atm1](https://user-images.githubusercontent.com/59721986/153714155-104c92c5-bd87-4895-9e45-40021c1cd746.JPG)
 
 - Low Level Requirements:
+
+ ![atm2](https://user-images.githubusercontent.com/59721986/153714243-f39d52fb-5865-4d20-90cb-b86af9a203e5.JPG)
+
