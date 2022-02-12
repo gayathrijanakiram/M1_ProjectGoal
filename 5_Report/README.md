@@ -64,6 +64,8 @@ A miniproject on implementing a working operation of ATM Machine which includes 
 
     ![usecase 1 atm](https://user-images.githubusercontent.com/59721986/153717580-f59c80ae-8b94-4756-aed7-ebbdb68b3a39.JPG)
 
+# Testplan and output
+
    # High level test plan
 
     ![test 1](https://user-images.githubusercontent.com/59721986/153722199-a1cc34e9-5021-453f-8050-80c5ae1631f8.JPG)
