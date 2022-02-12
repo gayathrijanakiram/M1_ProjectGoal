@@ -13,14 +13,19 @@ A miniproject on implementing a working operation of ATM Machine which includes 
 - Threads
 # 4W's and 1H's
 - Who
-  Everyone can use the ATM Machine,who needs to deposit,withdraw,and transfer the amount.
+
+   Everyone can use the ATM Machine,who needs to deposit,withdraw,and transfer the amount.
 - What
+
   It is Made for withdraw of amount,deposit of amount,and transfer of amount.
 - Where
+
   The user can access this ATM application using any C compiler.
 - Why
+
   This application helps the user to do withdraw,deposit,and transaction of amount through online.
 - How
+
   The implementation of this application is done using C programming language.
 # DETAIL REQUIREMENTS:
 - High Level Requirements:
