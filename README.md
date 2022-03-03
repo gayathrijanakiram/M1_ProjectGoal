@@ -2,7 +2,7 @@
 
 # ATM MACHINE MINIPROJECT
 
-## - codiga batch
+## codiga batch
 ## code quality score
 
 ![code quality score](https://api.codiga.io/project/31297/score/svg)
