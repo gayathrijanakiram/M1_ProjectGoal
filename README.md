@@ -11,6 +11,10 @@
 
 ![quality grade](https://api.codiga.io/project/31297/status/svg)
 
+## codacy batch
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e9d37d6d752b4daf8ec3c0fa1d88d0bc)](https://www.codacy.com/gh/gayathrijanakiram/M1_ProjectGoal_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gayathrijanakiram/M1_ProjectGoal_App&amp;utm_campaign=Badge_Grade)
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
