@@ -19,6 +19,10 @@
 
 [![UnitTesting](https://github.com/gayathrijanakiram/M1_ProjectGoal_App/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/gayathrijanakiram/M1_ProjectGoal_App/actions/workflows/c-cpp.yml)
 
+## cppcheck
+
+[![.github/workflows/c-cpp2.yml](https://github.com/gayathrijanakiram/M1_ProjectGoal_App/actions/workflows/c-cpp2.yml/badge.svg)](https://github.com/gayathrijanakiram/M1_ProjectGoal_App/actions/workflows/c-cpp2.yml)
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
